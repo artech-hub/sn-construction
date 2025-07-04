@@ -1,6 +1,6 @@
 
 export default {
-  basePath: 'sn-construction',
+  basePath: '/sn-construction',
   supportedLocales: {
   "en-US": ""
 },
