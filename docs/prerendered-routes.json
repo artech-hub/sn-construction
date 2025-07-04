@@ -1,0 +1,11 @@
+{
+  "routes": {
+    "/sn-construction": {},
+    "/sn-construction/about": {},
+    "/sn-construction/contact": {},
+    "/sn-construction/home": {},
+    "/sn-construction/projects": {},
+    "/sn-construction/service": {},
+    "/sn-construction/work": {}
+  }
+}
